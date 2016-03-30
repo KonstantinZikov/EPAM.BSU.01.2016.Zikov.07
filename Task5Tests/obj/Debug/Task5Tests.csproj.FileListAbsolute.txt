@@ -1,0 +1,12 @@
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\bin\Debug\Task5Tests.dll
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\bin\Debug\Task5Tests.pdb
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\bin\Debug\Task5.dll
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\bin\Debug\Task5.pdb
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\Task5Tests.csprojResolveAssemblyReference.cache
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\Task5Tests.dll
+C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\Task5Tests.pdb
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\Task5Tests.rewritten
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\Decl\Task5Tests.dll
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\Decl\Task5Tests.pdb
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task5Tests\obj\Debug\CodeContractAnalysisRun.log

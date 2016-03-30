@@ -1,0 +1,8 @@
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Debug\Task1Console.exe.config
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Debug\Task1Console.exe
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Debug\Task1Console.pdb
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Debug\Task1.dll
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Debug\Task1.pdb
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\obj\Debug\Task1Console.csprojResolveAssemblyReference.cache
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\obj\Debug\Task1Console.exe
+c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1Console\obj\Debug\Task1Console.pdb

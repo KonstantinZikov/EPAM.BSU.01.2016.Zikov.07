@@ -1,0 +1,8 @@
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\bin\Debug\Task2Tests.dll
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\bin\Debug\Task2Tests.pdb
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\bin\Debug\Task2.dll
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\bin\Debug\Task2.pdb
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\obj\Debug\Task2Tests.csprojResolveAssemblyReference.cache
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\obj\Debug\Task2Tests.dll
+C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task2Tests\obj\Debug\Task2Tests.pdb
