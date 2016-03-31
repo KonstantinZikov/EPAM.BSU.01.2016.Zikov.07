@@ -4,12 +4,11 @@ using Task3;
 
 namespace Task3Tests
 {
-    //TODO normal method names
     [TestClass]
     public class QueueTests
     {
         [TestMethod]
-        public void Create()
+        public void Constructor_Nothing_NoException()
         {
             //arrange
             //act
@@ -18,7 +17,7 @@ namespace Task3Tests
         }
 
         [TestMethod]
-        public void CreateSize()
+        public void Constructor_Size_NoException()
         {
             //arrange
             //act
@@ -27,7 +26,7 @@ namespace Task3Tests
         }
 
         [TestMethod]
-        public void EnqueueDequeue()
+        public void EnqueueAndDequeue_TwoElement_TwoElementsInTheSameOrder()
         {
             //arrange
             var q = new Queue<int>(41);
@@ -42,7 +41,7 @@ namespace Task3Tests
         }
 
         [TestMethod]
-        public void EnqueueDequeueMany()
+        public void EnqueueAndDequeue_SetLargerThanSizeOfQueue_WorksCorrectly()
         {
             //arrange
             var q = new Queue<int>(8);
@@ -63,7 +62,7 @@ namespace Task3Tests
         }
 
         [TestMethod]
-        public void Peek()
+        public void Peek_Nothing_PeekElement()
         {
             //arrange
             var q = new Queue<int>(8);
@@ -75,7 +74,7 @@ namespace Task3Tests
         }
 
         [TestMethod]
-        public void Enumerator()
+        public void Enumerator_NumbersSet_ForeachWorksCorrectlys()
         {
             //arrange
             var q = new Queue<int>(8);

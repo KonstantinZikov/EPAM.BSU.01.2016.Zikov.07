@@ -2,3 +2,7 @@ c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\T
 c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1\bin\Debug\Task1.pdb
 c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1\obj\Debug\Task1.dll
 c:\users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task1\obj\Debug\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1\bin\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1\bin\Debug\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1\obj\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1\obj\Debug\Task1.pdb

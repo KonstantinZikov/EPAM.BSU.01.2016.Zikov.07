@@ -7,7 +7,7 @@ namespace Task5Tests
     public class SortsTests
     {
         [TestMethod]
-        public void SortTest()
+        public void QuickSort_10000OfRandomNumbers_EveryNumberIsLessThenNext()
         {
             // arrange
             Random rand = new Random(42);
@@ -16,8 +16,10 @@ namespace Task5Tests
             {
                 array[i] = rand.Next();
             }
+
             // act
             array.QuickSort();
+
             // assert
             for (int i = 0; i < 9999; i++)
             {
@@ -27,9 +29,9 @@ namespace Task5Tests
        
         [TestMethod]
         [ExpectedException(typeof(ArgumentNullException))]
-        public void NullArrayTest()
+        public void QuickSort_null_ArgumentNullException()
         {
-            // arrange is absent
+            // arrange is skiped
             // act
             Sorts.QuickSort<int>(null);
             // assert is handled by exception

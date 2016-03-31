@@ -12,6 +12,7 @@ namespace Task4
         public static int BinarySearch<T>(IList<T> collection, T element)
         {
             Contract.Requires<ArgumentNullException>(collection != null);
+
             IComparer<T> comparer = Comparer<T>.Default;
             int low = 0, high = collection.Count - 1;
             while (low <= high)

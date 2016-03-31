@@ -2,3 +2,11 @@ C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\T
 C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task3\bin\Debug\Task3.pdb
 C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Task3.dll
 C:\Users\konst\Documents\Visual Studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Task3.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\bin\Debug\Task3.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\bin\Debug\Task3.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Task3.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Task3.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Task3.rewritten
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Decl\Task3.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\Decl\Task3.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task3\obj\Debug\CodeContractAnalysisRun.log

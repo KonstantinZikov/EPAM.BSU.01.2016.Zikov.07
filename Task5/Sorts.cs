@@ -8,6 +8,7 @@ namespace Task5
         static public void QuickSort<T>(this IList<T> list, IComparer<T> comparer = null)
         {
             Contract.Requires<ArgumentNullException>(list != null);
+
             if (comparer == null)
                 comparer = Comparer<T>.Default;
             Qsort(list,comparer, 0, list.Count - 1);

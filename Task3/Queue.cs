@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 
 namespace Task3 
 {
@@ -22,8 +23,7 @@ namespace Task3
 
         public Queue(int size = 16)
         {
-            if (size <= 0)
-                throw new ArgumentOutOfRangeException("size must be greater then zero.");
+            Contract.Requires<ArgumentOutOfRangeException>(size > 0);
             array = new T[size];
             this.size = size;
         }
@@ -39,9 +39,10 @@ namespace Task3
 
         public T Dequeue()
         {
-            changeCounter++;
+            
             if (dequeuePointer == enqueuePointer)
                 throw new InvalidOperationException("Queue is empty.");
+            changeCounter++;
             return array[dequeuePointer++];
         }
 

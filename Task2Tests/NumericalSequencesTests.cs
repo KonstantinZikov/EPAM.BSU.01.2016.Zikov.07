@@ -8,7 +8,7 @@ namespace Task2Tests
     public class NumericalSequencesTests
     {
         [TestMethod]
-        public void Fimonacci()
+        public void Fibonacci_Seven_FirstSevenFibonacciNumbers()
         {
             //arrange
             int[] fib = new[] { 1, 1, 2, 3, 5, 8, 13 };

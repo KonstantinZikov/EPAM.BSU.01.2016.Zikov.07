@@ -6,3 +6,11 @@ C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\T
 C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Decl\Task4.dll
 C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Decl\Task4.pdb
 C:\Users\konst\documents\visual studio 2015\Projects\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\CodeContractAnalysisRun.log
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\bin\Debug\Task4.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\bin\Debug\Task4.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Task4.rewritten
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Task4.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Task4.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Decl\Task4.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\Decl\Task4.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task4\obj\Debug\CodeContractAnalysisRun.log

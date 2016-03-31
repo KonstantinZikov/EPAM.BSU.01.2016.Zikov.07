@@ -1,0 +1,8 @@
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Release\Task1Console.exe.config
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Release\Task1Console.exe
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Release\Task1Console.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Release\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\bin\Release\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\obj\Release\Task1Console.csprojResolveAssemblyReference.cache
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\obj\Release\Task1Console.exe
+D:\Sources\EPAM.BSU.01.2016.Zikov.07\Task1Console\obj\Release\Task1Console.pdb
